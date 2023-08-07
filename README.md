@@ -33,6 +33,12 @@ The following packages are pre-installed with the starter project:
 
 ![Search Result](./UI-ASSET/Weather-App-Search-Result.png)
 
+**3. Mobile Views**
+
+![Search Result](./UI-ASSET/Weather-App-Search-Result-Mobile-1.png)
+![Search Result](./UI-ASSET/Weather-App-Search-Result-Mobile.png)
+
+
 Prepared By: [Yeabsira Getahun][portfolio] via [Kuraz Technologies][kuraztech].
 
 [kuraztech]: https://www.kuraztech.com

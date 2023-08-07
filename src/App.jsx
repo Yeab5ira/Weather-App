@@ -1,3 +1,4 @@
+import "@fortawesome/fontawesome-svg-core"
 function App() {
   return (
     <>
